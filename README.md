@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>Hi there, I'm Rythma 👋</h1>
-  <h3>Building Impactful Software | AI & Machine Learning | Full-Stack</h3>
+  <h3>Architecting Scalable AI Solutions | Solving Real-World Problems</h3>
   
   <!-- Dynamic Typewriter Effect (Teal) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+KMIT+('27);AI+%26+ML+Engineer;Full-Stack+Developer;260%2B+LeetCode+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Translating+Theory+into+Impact;AI+%26+Machine+Learning;Scalable+Backend+Architecture;CS+Undergrad+%40+KMIT" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
-      <!-- Cache parameter added to fix timeout/broken image issues -->
-      <img src="https://github-readme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&cache_seconds=86400" alt="GitHub Stats" width="410" />
+      <!-- Custom Private Vercel API for GitHub Stats -->
+      <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB" alt="GitHub Stats" width="410" />
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <!-- Light Theme LeetCode Card with Heatmap Grid Only -->
@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-  <!-- Cache parameter added to fix timeout/broken image issues -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&cache_seconds=86400" alt="Top Languages" />
+  <!-- Custom Private Vercel API for Top Languages -->
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333" alt="Top Languages" />
 </div>
 
-<br>
+<br/>
 
 ### 🐍 Contribution Graph Animation
 <div align="center">
