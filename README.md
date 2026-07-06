@@ -1,4 +1,3 @@
-
 <!--
 **RythmaLakkady/RythmaLakkady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +16,7 @@ Here are some ideas to get you started:
   <h1>Hi there, I'm Rythma 👋</h1>
   <h3>Architecting Scalable AI Solutions | Solving Real-World Problems</h3>
   
-  <!-- Dynamic Typewriter Effect (Teal) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Translating+Theory+into+Impact;AI+%26+Machine+Learning;Building+Scalable+Systems" alt="Typewriter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Translating+Theory+into+Impact;AI+Machine+Learning;Building+Scalable+Systems" alt="Typewriter" />
 </div>
 
 <br/>
@@ -34,8 +32,8 @@ Here are some ideas to get you started:
 
 ### 🔬 Featured Engineering Work
 
-*   **ShadowQA Framework:** Engineered an LLM-powered API testing tool utilizing Llama 3.3 and LangChain RAG pipelines, successfully reducing root-cause investigation time by 40% and manual testing effort significantly.
-*   **SceneSolver Multimodal AI:** Designed a computer vision pipeline integrating CLIP and Vision Transformers for forensic analysis, utilizing asynchronous inference to maximize concurrent image processing capabilities.
+*   **ShadowQA Framework:** Engineered an LLM-powered API testing tool utilizing Llama 3.3 and LangChain RAG pipelines, successfully reducing root-cause investigation time by 40% and manual testing effort.
+*   **SceneSolver Multimodal AI:** Designed a computer vision pipeline integrating CLIP and Vision Transformers for forensic analysis, utilizing asynchronous inference to maximize concurrent image processing.
 *   **Spatial-Temporal Demand Prediction:** Built highly scalable XGBoost preprocessing pipelines for massive traffic datasets, achieving R² = 0.96 across 41,700+ samples while maintaining sub-second latency.
 
 <br/>
@@ -85,14 +83,14 @@ Here are some ideas to get you started:
 ### 📊 Engineering & Problem Solving Stats
 
 <div align="center">
-  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=1" alt="GitHub Stats" width="100%" />
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=1" alt="GitHub Stats" />
   <img src="https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="410" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=1" alt="Top Languages" width="100%" />
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=1" alt="Top Languages" />
 </div>
 
 <br/>
