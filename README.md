@@ -85,17 +85,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Stats](https://api.github-stats-extended.io/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Top Languages](https://api.github-stats-extended.io/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333)
 
 </div>
 
