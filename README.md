@@ -85,14 +85,14 @@ Here are some ideas to get you started:
 ### 📊 Engineering & Problem Solving Stats
 
 <div align="center">
-  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB" alt="GitHub Stats" />
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=1" alt="GitHub Stats" width="100%" />
   <img src="https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="410" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333" alt="Top Languages" />
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=1" alt="Top Languages" width="100%" />
 </div>
 
 <br/>
