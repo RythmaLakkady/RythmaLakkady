@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
-      <!-- White BG, Teal Title, Sky Blue Icons, Charcoal Text -->
-      <img src="https://github-readme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB" alt="GitHub Stats" width="410" />
+      <!-- Cache parameter added to fix timeout/broken image issues -->
+      <img src="https://github-readme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&cache_seconds=86400" alt="GitHub Stats" width="410" />
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <!-- Light Theme LeetCode Card with Heatmap Grid Only -->
@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-  <!-- Dynamic Language Distribution Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333" alt="Top Languages" />
+  <!-- Cache parameter added to fix timeout/broken image issues -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&cache_seconds=86400" alt="Top Languages" />
 </div>
 
-<br/>
+<br>
 
 ### 🐍 Contribution Graph Animation
 <div align="center">
