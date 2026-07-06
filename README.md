@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 <br/>
 
 ### 🌟 About Me
-- 🎓 CS Undergrad at Keshav Memorial Institute of Technology (CGPA: 8.79) with a deep passion for leveraging technology to solve complex, real-world problems[cite: 1].
-- 🧠 Specializing in **Artificial Intelligence, Large Language Models (LLMs), and Computer Vision**, with a focus on building systems that scale[cite: 1].
-- 💻 Experienced in architecting asynchronous evaluation pipelines, high-throughput backend infrastructure, and highly accurate predictive models[cite: 1].
-- 🚀 Driven by a relentless curiosity to build impactful software—whether it is automating API testing to reduce debugging time or analyzing forensic evidence through multimodal AI[cite: 1].
-- 📫 Let's connect: **[LinkedIn](https://linkedin.com/in/rythma-lakkady-1725852a2)** | **[LeetCode](https://leetcode.com/u/RythmaLakkady/)**[cite: 1] | rythmalakkady@gmail.com[cite: 1]
+- 🎓 CS Undergrad at Keshav Memorial Institute of Technology (CGPA: 8.79) with a deep passion for leveraging technology to solve complex, real-world problems.
+- 🧠 Specializing in **Artificial Intelligence, Large Language Models (LLMs), and Computer Vision**, with a focus on building systems that scale.
+- 💻 Experienced in architecting asynchronous evaluation pipelines, high-throughput backend infrastructure, and highly accurate predictive models.
+- 🚀 Driven by a relentless curiosity to build impactful software—whether it is automating API testing to reduce debugging time or analyzing forensic evidence through multimodal AI.
+- 📫 Let's connect: **[LinkedIn](https://linkedin.com/in/rythma-lakkady-1725852a2)** | **[LeetCode](https://leetcode.com/u/RythmaLakkady/)** | rythmalakkady@gmail.com
 
 <br/>
 
 ### 🔬 Featured Engineering Work
 
-*   **ShadowQA Framework:** Engineered an LLM-powered API testing tool utilizing Llama 3.3 and LangChain RAG pipelines, successfully reducing root-cause investigation time by 40% and manual testing effort by 35%[cite: 1].
-*   **SceneSolver Multimodal AI:** Designed a computer vision pipeline integrating CLIP and Vision Transformers for forensic analysis, utilizing asynchronous inference to maximize concurrent image-processing throughput[cite: 1].
-*   **Spatial-Temporal Demand Prediction:** Built highly scalable XGBoost preprocessing pipelines for massive traffic datasets, achieving R² = 0.96 across 41,700+ samples while maintaining sub-second inference latency[cite: 1].
+*   **ShadowQA Framework:** Engineered an LLM-powered API testing tool utilizing Llama 3.3 and LangChain RAG pipelines, successfully reducing root-cause investigation time by 40% and manual testing effort by 35%.
+*   **SceneSolver Multimodal AI:** Designed a computer vision pipeline integrating CLIP and Vision Transformers for forensic analysis, utilizing asynchronous inference to maximize concurrent image-processing throughput.
+*   **Spatial-Temporal Demand Prediction:** Built highly scalable XGBoost preprocessing pipelines for massive traffic datasets, achieving R² = 0.96 across 41,700+ samples while maintaining sub-second inference latency.
 
 <br/>
 
