@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h3>Building Impactful Software | AI & Machine Learning | Full-Stack</h3>
   
   <!-- Dynamic Typewriter Effect (Teal) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Translating+Theory+into+Impact;AI+%26+Machine+Learning;Scalable+Backend+Architecture;CS+Undergrad+%40+KMIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+KMIT+('27);AI+%26+ML+Engineer;Full-Stack+Developer;260%2B+LeetCode+Problems" alt="Typing SVG" />
 </div>
 
 <br/>
