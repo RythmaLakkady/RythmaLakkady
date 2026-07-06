@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![GitHub Stats](https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=1)](https://github.com/RythmaLakkady)
+![GitHub Stats](https://api.github-stats-extended.io/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/RythmaLakkady/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap)
 
 </div>
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Top Languages](https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=1)](https://github.com/RythmaLakkady)
+![Top Languages](https://api.github-stats-extended.io/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333)
 
 </div>
 
