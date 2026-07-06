@@ -84,24 +84,17 @@ Here are some ideas to get you started:
 
 ### 📊 Engineering & Problem Solving Stats
 
-<!-- Table layout alignment grid -->
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px;">
-      <!-- Cache buster &v=2 added to bypass GitHub's proxy block -->
-      <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=2" alt="GitHub Stats" width="410" />
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <!-- Light Theme LeetCode Card with Heatmap Grid Only -->
-      <img src="https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="410" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&icon_color=87CEEB&v=4" alt="GitHub Stats" width="410" />
+  <img src="https://leetcard.jacoblin.cool/RythmaLakkady?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="410" />
+</div>
+
+<br/>
 
 <div align="center">
-  <!-- Cache buster &v=2 added to bypass GitHub's proxy block -->
-  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=2" alt="Top Languages" />
+  <img src="https://githubreadme-stats-rythmas-projects.vercel.app/api/top-langs?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=008080&text_color=333333&v=4" alt="Top Languages" />
 </div>
+
 <br/>
 
 ### 🐍 Contribution Graph Animation
@@ -113,7 +106,6 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<!-- Sky Blue View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RythmaLakkady&color=87CEEB&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
