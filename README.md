@@ -56,33 +56,53 @@ I enjoy turning ideas into deployable software while continuously improving my e
 
 ---
 
-# What I'm Interested In
+<h1 align="center">Tech Stack</h1>
 
-<table>
+<table align="center">
 
 <tr>
 
-<td width="33%">
+<td valign="top" width="25%">
 
-<h3>🤖 AI Applications</h3>
+### Languages
 
-Building practical software that integrates AI to solve real-world problems.
-
-</td>
-
-<td width="33%">
-
-<h3>⚙️ Backend Engineering</h3>
-
-Designing APIs and backend systems with clean architecture and maintainability in mind.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,sql" />
+</p>
 
 </td>
 
-<td width="33%">
+<td valign="top" width="25%">
 
-<h3>🌐 Full-Stack Development</h3>
+### Frameworks
 
-Creating responsive web applications with intuitive user experiences.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Databases & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,aws,docker" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,tensorflow,pytorch" />
+</p>
 
 </td>
 
@@ -90,122 +110,13 @@ Creating responsive web applications with intuitive user experiences.
 
 </table>
 
-# Tech Stack
-
-### Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=sql"/>
-
-</p>
-
 ---
 
-### Frontend
+### AI & Machine Learning
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-### Backend & Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-### AI / Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-</p>
-
-**Also worked with**
-
-- LangChain
-- ChromaDB
-- Hugging Face Transformers
-- CLIP
-- Vision Transformers
-- YOLO
-- XGBoost
-- Gemini API
-- OpenCV
-
----
-
-### Cloud & Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
----
-
-# Areas I've Worked With
-
-| Area | Experience |
-|------|------------|
-| Large Language Models | Prompt Engineering, LLM-powered applications |
-| Retrieval-Augmented Generation | LangChain, ChromaDB |
-| Computer Vision | CLIP, Vision Transformers, YOLO, OpenCV |
-| Machine Learning | TensorFlow, PyTorch, XGBoost |
-| Data Processing | NumPy, Pandas |
-| Backend Integration | REST APIs, SQLite, MongoDB |
-| Full-Stack Development | React, Firebase, Node.js |
-
+```text
+LangChain • ChromaDB • Hugging Face Transformers • CLIP • Vision Transformers • YOLO • XGBoost • Gemini API • OpenCV
+```
 
 <!-- ================= END OF PART 1 ================= -->
 
@@ -224,64 +135,53 @@ Projects that reflect my interest in building practical software solutions using
 </p>
 
 ---
+# Featured Projects
+
+<p align="center">
+A selection of projects showcasing my interest in AI-powered applications, backend engineering, machine learning, and full-stack development.
+</p>
+
+---
 
 <details open>
 
 <summary>
 
 ## 🛡️ ShadowQA
-
 **AI-Powered API Testing & Debugging Framework**
 
 </summary>
 
-### Problem
+### Overview
 
-Testing REST APIs manually is repetitive, time-consuming, and often misses edge cases. Developers also spend significant effort tracing failures back to their root cause.
-
----
-
-### Solution
-
-ShadowQA automates API testing directly from OpenAPI specifications using Large Language Models. It generates happy-path, edge-case, and adversarial test suites while assisting debugging through Retrieval-Augmented Generation (RAG).
-
----
+ShadowQA is an AI-powered framework that automates REST API testing from OpenAPI specifications. It leverages Retrieval-Augmented Generation (RAG) to generate comprehensive test suites, identify edge cases, and provide contextual debugging assistance.
 
 ### Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python |
+| Category | Technologies |
+|-----------|--------------|
+| **Language** | Python |
 | **Frameworks** | Streamlit, LangChain |
 | **Database** | SQLite, ChromaDB |
 | **AI** | Llama 3.3 |
 | **Concepts** | RAG, Asynchronous Processing |
 
----
-
 ### Highlights
 
 - Automated API test generation from OpenAPI specifications
-- Built concurrent evaluation pipelines for REST endpoints
-- Integrated LangChain + ChromaDB for contextual debugging
-- Generated structured JSON coverage reports
+- Concurrent evaluation pipeline for REST endpoints
+- Context-aware debugging using LangChain and ChromaDB
+- Structured JSON coverage reports
 - Reduced manual testing effort through automation
 
----
-
-### Repository
-<p>
+<p align="center">
 
 <a href="https://github.com/RythmaLakkady/ShadowQA">
-
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 <a href="https://shadowapp.streamlit.app/">
-
 <img src="https://img.shields.io/badge/Live_Demo-7B61FF?style=for-the-badge&logo=streamlit"/>
-
 </a>
 
 </p>
@@ -295,52 +195,35 @@ ShadowQA automates API testing directly from OpenAPI specifications using Large 
 <summary>
 
 ## 🌍 WanderGen
-
 **AI-Powered Travel Planning Platform**
 
 </summary>
 
-### Problem
+### Overview
 
-Planning trips often requires switching between multiple websites for destinations, budgeting, accommodation, and itinerary planning.
-
----
-
-### Solution
-
-WanderGen generates personalized travel plans using user preferences such as budget, interests, and trip duration while integrating AI-generated recommendations into a responsive web application.
-
----
+WanderGen is a full-stack travel planning platform that generates personalized itineraries using user preferences such as destination, budget, interests, and trip duration, combining AI recommendations with an intuitive React interface.
 
 ### Tech Stack
 
-| | |
-|---|---|
+| Category | Technologies |
+|-----------|--------------|
 | **Frontend** | React.js |
 | **Authentication** | Firebase |
 | **AI** | Gemini API |
 | **Concepts** | REST APIs, Component-Based Architecture |
 
----
-
 ### Highlights
 
-- Personalized travel itinerary generation
+- Personalized AI-generated travel itineraries
 - Responsive React interface
 - Firebase Authentication
-- Modular reusable components
+- Modular and reusable components
 - AI-assisted recommendation workflow
 
----
-
-### Repository
-
-<p>
+<p align="center">
 
 <a href="https://github.com/RythmaLakkady/wandergen">
-
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </p>
@@ -354,49 +237,33 @@ WanderGen generates personalized travel plans using user preferences such as bud
 <summary>
 
 ## 🔍 SceneSolver
-
 **Multimodal Crime Scene Analysis Tool**
 
 </summary>
 
 ### Overview
 
-SceneSolver explores how multimodal AI can assist forensic evidence analysis by combining computer vision techniques with structured metadata generation.
-
----
-
-### My Contribution
-
-Contributed to the development of the project alongside teammates, focusing on building and integrating components of the computer vision pipeline.
-
----
+SceneSolver explores multimodal AI for forensic evidence analysis by combining computer vision techniques with structured metadata generation. I contributed to building and integrating components of the computer vision pipeline.
 
 ### Tech Stack
 
-| | |
-|---|---|
+| Category | Technologies |
+|-----------|--------------|
 | **Language** | Python |
 | **Libraries** | TensorFlow, OpenCV |
 | **Models** | CLIP, Vision Transformers |
 
----
-
 ### Highlights
 
 - Image classification pipeline
-- Structured JSON & CSV outputs
+- Structured JSON and CSV outputs
 - Modular preprocessing workflow
 - Multimodal inference pipeline
 
----
-
-### Repository
-<p>
+<p align="center">
 
 <a href="https://github.com/adityapanyala/SceneSolver">
-
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </p>
@@ -410,51 +277,34 @@ Contributed to the development of the project alongside teammates, focusing on b
 <summary>
 
 ## 🚦 Traffic Demand Prediction System
-
 **Machine Learning for Urban Traffic Forecasting**
 
 </summary>
 
-### Problem
+### Overview
 
-Urban traffic demand is influenced by spatial and temporal patterns, making accurate prediction challenging.
-
----
-
-### Solution
-
-Developed a machine learning pipeline using XGBoost to forecast traffic demand while maintaining high predictive accuracy and low inference latency.
-
----
+A machine learning pipeline that predicts urban traffic demand using XGBoost. The project focuses on scalable preprocessing, feature engineering, and high-accuracy traffic forecasting on large datasets.
 
 ### Tech Stack
 
-| | |
-|---|---|
+| Category | Technologies |
+|-----------|--------------|
 | **Language** | Python |
 | **Libraries** | Pandas, NumPy |
 | **Model** | XGBoost |
 
----
-
 ### Highlights
 
 - R² Score of **0.96**
-- Validated on **41,700+ samples**
+- Evaluated on **41,700+ samples**
 - Scalable preprocessing pipeline
 - Feature engineering workflow
 - Sub-second inference
 
----
-
-### Repository
-
-<p>
+<p align="center">
 
 <a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">
-
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </p>
@@ -527,100 +377,72 @@ Although these aren't complete projects yet, they're areas I'm actively working 
 # Development Activity
 
 <p align="center">
-<img width="49%" src="https://githubreadme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=B8A8FF&text_color=6E6E80&icon_color=F7E7A9"/>
+  <img width="49%" src="https://githubreadme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFE761&border_radius=15"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=RythmaLakkady&hide_border=true&background=FFFFFF00&ring=B8A8FF&fire=F7E7A9&currStreakLabel=B8A8FF"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=RythmaLakkady&hide_border=true&background=00000000&ring=FFE761&fire=FFE761&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=15"/>
 </p>
 
 <p align="center">
-<img width="49%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=00000000&title_color=B8A8FF&text_color=6E6E80"/>
-
+  <img width="49%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=15"/>
 </p>
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=ffffff00&color=B8A8FF&line=F7E7A9&point=D8CCFF&hide_border=true"/>
-</p>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=ffffff00&color=B8A8FF&line=F7E7A9&point=D8CCFF&hide_border=true"/> </p>
 
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 # Current Focus
 
 ```yaml
 building:
   - Personal Portfolio Website
-  - Deployable AI Applications
-  - Backend Projects
+  - AI-powered Applications
+  - Backend-focused Software Projects
   - Automation Workflows with n8n
 
 exploring:
   - Backend Engineering
-  - Open Source
-  - Anthropic Ecosystem
-  - Claude
+  - AI Systems
+  - Open Source Contributions
+  - System Design Fundamentals
 
 learning:
-  - New engineering concepts through hands-on projects
+  - Building production-ready software through hands-on projects
 
 open_to:
   - Software Engineering Internships
-  - AI Engineering Internships
-  - Backend Development
+  - AI / Machine Learning Internships
+  - Backend Engineering Internships
 ```
 
 ---
 
-# Get In Touch
+<h1 align="center">Let's Connect</h1>
 
 <p align="center">
+<a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/Email-2F2A44?style=for-the-badge&logo=gmail&logoColor=F7E7A9"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LinkedIn-2F2A44?style=for-the-badge&logo=linkedin&logoColor=B8A8FF"/></a>&nbsp;
+<a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GitHub-2F2A44?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<!-- Replace with your portfolio URL once it's live -->
 
-<a href="mailto:rythmalakkady@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-2F2A44?style=for-the-badge&logo=gmail&logoColor=F7E7A9"/>
-
-</a>
-
+<!--
 &nbsp;
 
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">
-
-<img src="https://img.shields.io/badge/LinkedIn-2F2A44?style=for-the-badge&logo=linkedin&logoColor=B8A8FF"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://github.com/RythmaLakkady">
-
-<img src="https://img.shields.io/badge/GitHub-2F2A44?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://github.com/RythmaLakkady">
-
+<a href="https://your-portfolio-url.com">
 <img src="https://img.shields.io/badge/Portfolio-2F2A44?style=for-the-badge&logo=vercel&logoColor=F7E7A9"/>
-
 </a>
+-->
 
 </p>
 
 ---
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:F7E7A9,35:FFF7D6,70:D8CCFF,100:B8A8FF"/>
-
+<img width="100%" src="footer.svg" alt="Footer"/>
 </p>
-
-<p align="center">
-
-<i>"Build things that matter, then keep making them better."</i>
-
-</p>
-
 <!-- ========================================================= -->
 <!--                    END OF README                          -->
 <!-- ========================================================= -->
