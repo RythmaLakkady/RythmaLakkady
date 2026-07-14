@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFD93D,30:FFF27A,60:F4DDFF,85:D8B4FE,100:A855F7&text=Rythma%20Reddy%20Lakkady&fontColor=35264A&fontSize=49&fontAlignY=38&desc=Building%20Practical%20Software%20Solutions&descColor=5F4B7A&descAlignY=58"/>
+  <img src="header.svg" width="100%" alt="Rythma Header"/>
 </p>
 
 <p align="center">
