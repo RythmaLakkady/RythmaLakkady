@@ -108,12 +108,18 @@ stroke-opacity=".45"/>
 
 </g>
 
+
+
+<!-- Bottom Chips -->
+<g transform="translate(0,-10)">
+
 <!-- Main Heading -->
 
 <text
 x="800"
-y="165"
+y="190"
 text-anchor="middle"
+dominant-baseline="middle"
 font-size="74"
 font-family="Georgia, Times New Roman, serif"
 font-weight="700"
@@ -123,43 +129,17 @@ Rythma Reddy Lakkady
 
 </text>
 
-<!-- Glass Pill -->
-
-<rect
-x="460"
-y="198"
-width="680"
-height="58"
-rx="29"
-fill="white"
-fill-opacity=".35"
-stroke="white"
-stroke-opacity=".75"/>
-
-<text
-x="800"
-y="236"
-text-anchor="middle"
-font-size="24"
-font-family="Inter, Segoe UI, sans-serif"
-font-weight="600"
-letter-spacing="2"
-fill="#4D3B75">
-
-BUILDING PRACTICAL SOFTWARE SOLUTIONS
-
-</text>
-
 <!-- Bottom Chips -->
 
 <g>
 
-<rect x="360" y="305" width="230" height="52" rx="26" fill="white" fill-opacity=".30"/>
+<rect x="310" y="250" width="200" height="54" rx="27" fill="white" fill-opacity=".30"/>
 
 <text
-x="475"
-y="338"
+x="435"
+y="332"
 text-anchor="middle"
+dominant-baseline="middle"
 font-size="18"
 font-family="Inter"
 fill="#4A347B">
@@ -168,12 +148,13 @@ AI Applications
 
 </text>
 
-<rect x="680" y="305" width="250" height="52" rx="26" fill="white" fill-opacity=".30"/>
+<rect x="675" y="305" width="250" height="54" rx="27" fill="white" fill-opacity=".30"/>
 
 <text
-x="805"
-y="338"
+x="800"
+y="332"
 text-anchor="middle"
+dominant-baseline="middle"
 font-size="18"
 font-family="Inter"
 fill="#4A347B">
@@ -182,12 +163,13 @@ Backend Engineering
 
 </text>
 
-<rect x="1015" y="305" width="255" height="52" rx="26" fill="white" fill-opacity=".30"/>
+<rect x="1040" y="305" width="250" height="54" rx="27" fill="white" fill-opacity=".30"/>
 
 <text
-x="1142"
-y="338"
+x="1165"
+y="332"
 text-anchor="middle"
+dominant-baseline="middle"
 font-size="18"
 font-family="Inter"
 fill="#4A347B">
@@ -195,6 +177,8 @@ fill="#4A347B">
 Full-Stack Development
 
 </text>
+
+</g>
 
 </g>
 
