@@ -127,7 +127,8 @@ LangChain • ChromaDB • Hugging Face Transformers • CLIP • Vision Transfo
 <!-- ========================================================= -->
 
 ---
-# Featured Projects
+
+<h1 align="center">Featured Projects</h1>
 
 <p align="center">
 A selection of projects showcasing my interest in AI-powered applications, backend engineering, machine learning, and full-stack development.
