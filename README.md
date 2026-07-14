@@ -45,8 +45,8 @@
 </p>
 
 ---
+<h1 align="center">Hi, I'm Rythma 👋</h1>
 
-# Hi, I'm Rythma 👋
 
 I'm a Computer Science undergraduate who enjoys building software that solves practical problems.
 
@@ -111,8 +111,8 @@ I enjoy turning ideas into deployable software while continuously improving my e
 </table>
 
 ---
+<h1 align="center">AI & Machine Learning</h1>
 
-### AI & Machine Learning
 
 ```text
 LangChain • ChromaDB • Hugging Face Transformers • CLIP • Vision Transformers • YOLO • XGBoost • Gemini API • OpenCV
@@ -125,14 +125,6 @@ LangChain • ChromaDB • Hugging Face Transformers • CLIP • Vision Transfo
 <!--                    Featured Projects                          -->
 <!--                      PART 2 OF 4                          -->
 <!-- ========================================================= -->
-
----
-
-<h1 align="center">Featured Projects</h1>
-
-<p align="center">
-Projects that reflect my interest in building practical software solutions using AI, backend engineering, and modern web technologies.
-</p>
 
 ---
 # Featured Projects
