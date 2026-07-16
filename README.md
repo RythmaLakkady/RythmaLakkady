@@ -187,36 +187,51 @@ ShadowQA is an AI-powered framework that automates REST API testing from OpenAPI
 
 <summary>
 
-## 🌍 WanderGen
-**AI-Powered Travel Planning Platform**
+## ✈️ vac-ai-tion
+
+**AI-Powered Travel Planning Platform with Asynchronous LLM Orchestration**
 
 </summary>
 
 ### Overview
 
-WanderGen is a full-stack travel planning platform that generates personalized itineraries using user preferences such as destination, budget, interests, and trip duration, combining AI recommendations with an intuitive React interface.
+vac-ai-tion is a full-stack AI travel planning platform that generates personalized travel itineraries through an asynchronous orchestration pipeline. Instead of blocking the user while AI generation completes, the application delegates itinerary creation to Firebase Cloud Functions, streams progress in real time using Firestore listeners, and iteratively refines responses before presenting the final trip.
+
+---
 
 ### Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | React.js |
-| **Authentication** | Firebase |
-| **AI** | Gemini API |
-| **Concepts** | REST APIs, Component-Based Architecture |
+| **Frontend** | React 18, Vite, Tailwind CSS |
+| **Backend** | Firebase Cloud Functions |
+| **Database** | Firestore |
+| **Authentication** | Firebase Authentication |
+| **AI** | Groq (Llama 3.3 70B) |
+| **APIs** | LocationIQ |
+| **Concepts** | Asynchronous Processing, Intelligent Caching, Real-Time Updates |
+
+---
 
 ### Highlights
 
-- Personalized AI-generated travel itineraries
-- Responsive React interface
-- Firebase Authentication
-- Modular and reusable components
-- AI-assisted recommendation workflow
+- Asynchronous AI itinerary generation using Firebase Cloud Functions
+- Planner–Validator workflow with iterative refinement
+- Intelligent SHA-256 request caching to reduce redundant LLM inference
+- Real-time generation console powered by Firestore listeners
+- Drag-and-drop itinerary editing with persistent trip history
+- Responsive React frontend with Firebase Authentication
+
+---
 
 <p align="center">
 
-<a href="https://github.com/RythmaLakkady/wandergen">
+<a href="https://github.com/RythmaLakkady/vac-ai-tion">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://vac-ai-tion.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-7B61FF?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
