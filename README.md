@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Email-2F2A44?style=for-the-badge&logo=gmail&logoColor=F7E7A9"/>
 </a>
 
-<a href="https://github.com/RythmaLakkady">
+<a href="https://rythmalakkady.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-2F2A44?style=for-the-badge&logo=vercel&logoColor=F7E7A9"/>
 </a>
 
