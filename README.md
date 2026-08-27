@@ -324,10 +324,9 @@ A machine learning pipeline that predicts urban traffic demand using a stacked e
 
 Although these aren't complete projects yet, they're areas I'm actively working on and excited to expand.
 
-- 🌐 Personal Portfolio Website
-- ⚙️ Backend-focused Projects
-- 🤖 Deployable AI Applications
-- 🔄 Automation Workflows with n8n
+- 🚀 Scalable Microservices & Distributed Systems
+- 🤖 Agentic AI Workflows & RAG Pipelines
+- ⚙️ Performance Optimization & High-availability Backends
 - 🌱 Open Source Contributions
 
 <!-- ================= END OF PART 2 ================= -->
@@ -411,24 +410,24 @@ Although these aren't complete projects yet, they're areas I'm actively working 
 
 ```yaml
 building:
-  - Personal Portfolio Website
-  - AI-powered Applications
-  - Backend-focused Software Projects
-  - Automation Workflows with n8n
+  - Scalable Microservices & Distributed Systems
+  - Agentic AI Workflows & RAG Pipelines
+  - Full-stack AI Applications
 
 exploring:
-  - Backend Engineering
-  - AI Systems
+  - Advanced System Design
+  - Cloud Architecture (AWS/GCP)
+  - MLOps & LLMOps
   - Open Source Contributions
-  - System Design Fundamentals
 
 learning:
-  - Building production-ready software through hands-on projects
+  - Deploying distributed systems at scale
+  - Advanced deployment strategies (Docker/Kubernetes)
 
 open_to:
   - Software Engineering Internships
   - AI / Machine Learning Internships
-  - Backend Engineering Internships
+  - Backend / Data Engineering Internships
 ```
 
 ---
@@ -440,15 +439,11 @@ open_to:
 <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LinkedIn-2F2A44?style=for-the-badge&logo=linkedin&logoColor=B8A8FF"/></a>&nbsp;
 <a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GitHub-2F2A44?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<!-- Replace with your portfolio URL once it's live -->
-
-<!--
 &nbsp;
 
-<a href="https://your-portfolio-url.com">
+<a href="https://rythmalakkady.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-2F2A44?style=for-the-badge&logo=vercel&logoColor=F7E7A9"/>
 </a>
--->
 
 </p>
 
