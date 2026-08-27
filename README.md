@@ -161,11 +161,11 @@ ShadowQA is an AI-powered framework that automates REST API testing from OpenAPI
 
 ### Highlights
 
-- Automated API test generation from OpenAPI specifications
-- Concurrent evaluation pipeline for REST endpoints
-- Context-aware debugging using LangChain and ChromaDB
-- Structured JSON coverage reports
-- Reduced manual testing effort through automation
+- Generates 15 happy-path, edge-case, and adversarial test cases from natural-language descriptions in ~10 seconds
+- Async testing engine (httpx, asyncio) to run concurrent API requests, logging status codes and response times (~400ms)
+- Context-aware debugging using a LangChain + ChromaDB RAG pipeline
+- Generates AI-assisted diagnostic reports from past API failures
+- Structured vulnerability reports stored in SQLite
 
 <p align="center">
 
@@ -215,11 +215,10 @@ vac-ai-tion is a full-stack AI travel planning platform that generates personali
 
 ### Highlights
 
-- Asynchronous AI itinerary generation using Firebase Cloud Functions
-- Planner–Validator workflow with iterative refinement
-- Intelligent SHA-256 request caching to reduce redundant LLM inference
-- Real-time generation console powered by Firestore listeners
-- Drag-and-drop itinerary editing with persistent trip history
+- Serverless AI itinerary generation with Planner-Critic workflow (up to 3 validation iterations)
+- Streamed real-time generation progress via Firestore listeners
+- Intelligent SHA-256 request caching, cutting repeated LLM API calls by up to 6x for identical searches
+- Drag-and-drop itinerary editing with persistent trip history for authenticated users
 - Responsive React frontend with Firebase Authentication
 
 ---
@@ -291,7 +290,7 @@ SceneSolver explores multimodal AI for forensic evidence analysis by combining c
 
 ### Overview
 
-A machine learning pipeline that predicts urban traffic demand using XGBoost. The project focuses on scalable preprocessing, feature engineering, and high-accuracy traffic forecasting on large datasets.
+A machine learning pipeline that predicts urban traffic demand using a stacked ensemble model. Engineered spatial and time-based features, including geohash encoding and 5-fold target encoding, to improve prediction accuracy on large datasets.
 
 ### Tech Stack
 
@@ -299,15 +298,15 @@ A machine learning pipeline that predicts urban traffic demand using XGBoost. Th
 |-----------|--------------|
 | **Language** | Python |
 | **Libraries** | Pandas, NumPy |
-| **Model** | XGBoost |
+| **Model** | LightGBM, XGBoost, CatBoost, Ridge Regression |
 
 ### Highlights
 
-- R² Score of **0.96**
+- Stacked ensemble achieving an R² Score of **0.96**
 - Evaluated on **41,700+ samples**
-- Scalable preprocessing pipeline
-- Feature engineering workflow
-- Sub-second inference
+- Engineered spatial (geohash) and time-based features
+- 5-fold target encoding for improved accuracy
+- Automated inference pipeline with CSV exports
 
 <p align="center">
 
@@ -338,6 +337,13 @@ Although these aren't complete projects yet, they're areas I'm actively working 
 <!--                      PART 3 OF 4                          -->
 <!-- ========================================================= -->
 
+
+# Achievements
+
+- **Flipkart GRiD 8.0 Semifinalist**: Advanced to Round 3 among 165,730+ registered participants nationwide.
+- **Flipkart Gridlock Hackathon 2.0**: Built a stacked ML ensemble achieving an R2 score of 0.96 on 41,700+ validation samples.
+
+---
 
 # Certifications
 
