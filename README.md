@@ -34,6 +34,8 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 
 ## <img src="icons/code.svg" width="22" valign="middle"/> What I Work With
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -79,6 +81,8 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -148,19 +152,7 @@ A spatial + temporal ML pipeline using engineered features and a stacked ensembl
 <a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">↗ Repository</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🔐 AgentDefender
-
-**Multi-agent AI for smart contract security**
-
-A final-year project exploring how AI agents and static analysis can work together to identify vulnerabilities in Solidity contracts.
-
-`LangGraph` `Llama` `Slither` `Solidity`
-
-**Currently building**
-
-</td>
 </tr>
 </table>
 
@@ -170,9 +162,9 @@ A final-year project exploring how AI agents and static analysis can work togeth
 
 <div align="center">
 
-| **165,730+** | **41,700+** | **0.96** | **4** |
+| **165,730+** | **41,700+** | **0.96** | **3** |
 |:---:|:---:|:---:|:---:|
-| Flipkart GRiD registrations | ML validation samples | Traffic ML R² | Featured systems |
+| Flipkart GRiD registrations | ML validation samples | Traffic ML R² | Featured projects |
 
 </div>
 
