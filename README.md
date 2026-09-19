@@ -24,13 +24,11 @@
 
 ## <img src="icons/brain.svg" width="22" valign="middle"/> About Me
 
-Hey, I'm **Rythma** — a Computer Science student at **Keshav Memorial Institute of Technology, Hyderabad**.
+I'm **Rythma**, a Computer Science student at **Keshav Memorial Institute of Technology, Hyderabad** who likes turning ideas into things I can actually use.
 
-I like taking an idea, building it from scratch, and then figuring out how to make it **smarter, faster, cleaner, and more useful**. I've worked across **AI/ML, LLM applications, full-stack development, backend engineering, and system design**.
+Most of my learning happens through building — from **ML models and full-stack applications to LLM-powered tools and backend systems**. I enjoy getting an idea working first, then digging into the parts that make it better: the architecture, the edge cases, the performance, and the experience of actually using it.
 
-Right now, I'm particularly interested in **RAG, agentic AI, asynchronous systems, APIs, and what it takes to turn an AI idea into a reliable product**.
-
-> *I learn by building — and I usually understand something best once I've actually built it.*
+These days, I'm exploring **RAG, agentic AI, APIs, asynchronous systems, and system design** — basically, everything that sits between *“the model works”* and *“this is a real product.”*
 
 </div>
 
