@@ -1,415 +1,212 @@
-<!-- ========================================================= -->
-<!--                    RYTHMA REDDY LAKKADY                    -->
-<!--                      GitHub Profile README                 -->
-<!--                         PART 1 OF 4                        -->
-<!-- ========================================================= -->
+<!-- RYTHMA REDDY LAKKADY — ENGINEERING PROFILE -->
 
 <p align="center">
-  <img src="header.svg" width="100%" alt="Rythma Header"/>
+  <img src="header.svg" width="100%" alt="Rythma Reddy Lakkady — AI Systems & Software Engineering"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=3000&color=F7A9C4&center=true&vCenter=true&width=900&lines=Building+practical+software+solutions+powered+by+AI."/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=2800&color=F7A9C4&center=true&vCenter=true&width=900&lines=AI+SYSTEMS+%2F+SOFTWARE+ENGINEERING;Building+intelligent+systems+that+survive+the+messy+path."/>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/RythmaLakkady">
-<img src="https://img.shields.io/badge/GitHub-5A1537?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">
-<img src="https://img.shields.io/badge/LinkedIn-5A1537?style=for-the-badge&logo=linkedin&logoColor=F7A9C4"/>
-</a>
-
-<a href="mailto:rythmalakkady@gmail.com">
-<img src="https://img.shields.io/badge/Email-5A1537?style=for-the-badge&logo=gmail&logoColor=F6D7E1"/>
-</a>
-
-<a href="https://rythmalakkady.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-5A1537?style=for-the-badge&logo=vercel&logoColor=F6D7E1"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RythmaLakkady&style=for-the-badge&color=F7A9C4"/>
-
-<img src="https://img.shields.io/github/followers/RythmaLakkady?style=for-the-badge&labelColor=5A1537&color=FAD6E3"/>
-
-<img src="https://img.shields.io/github/stars/RythmaLakkady?style=for-the-badge&labelColor=5A1537&color=F6D7E1"/>
-
-</p>
-
----
-<h1 align="center">Hi, I'm Rythma 👋</h1>
-
-
-I'm a Computer Science undergraduate who enjoys building software that solves practical problems.
-
-My interests currently revolve around **AI-powered applications**, **backend engineering**, **full-stack development**, and creating products that people can actually use.
-
-I enjoy turning ideas into deployable software while continuously improving my engineering skills through hands-on projects and open-source technologies.
-
----
-
-<h1 align="center">Tech Stack</h1>
-
-<table align="center">
-
-<tr>
-
-<td valign="top" width="25%">
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,sql" />
-</p>
-
-</td>
-
-<td valign="top" width="25%">
-
-### Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### Databases & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,aws,docker" />
-</p>
-
-</td>
-
-<td valign="top">
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,tensorflow,pytorch" />
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-<h1 align="center">AI & Machine Learning</h1>
-
-
-```text
-LangChain • ChromaDB • Hugging Face Transformers • CLIP • Vision Transformers • YOLO • XGBoost • Gemini API • OpenCV
-```
-
-<!-- ================= END OF PART 1 ================= -->
-
-
-<!-- ========================================================= -->
-<!--                    Featured Projects                          -->
-<!--                      PART 2 OF 4                          -->
-<!-- ========================================================= -->
-
----
-
-<h1 align="center">Featured Projects</h1>
-
-<p align="center">
-A selection of projects showcasing my interest in AI-powered applications, backend engineering, machine learning, and full-stack development.
+  <a href="https://rythmalakkady.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-5A1537?style=flat-square&logo=vercel&logoColor=F7A9C4"/></a>
+  <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LINKEDIN-5A1537?style=flat-square&logo=linkedin&logoColor=F7A9C4"/></a>
+  <a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GITHUB-5A1537?style=flat-square&logo=github&logoColor=F7A9C4"/></a>
+  <a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5A1537?style=flat-square&logo=gmail&logoColor=F7A9C4"/></a>
 </p>
 
 ---
 
-<details open>
+## 01 / WHO I AM
 
-<summary>
+I'm **Rythma**, a Computer Science undergraduate who builds at the intersection of **AI, backend systems, and full-stack software**.
 
-## 🛡️ ShadowQA
+I don't want to build AI demos that only work on the happy path. I'm interested in the engineering around them — **orchestration, APIs, retrieval, async workflows, evaluation, caching, reliability, and the product experience around the model.**
+
+> **Build it. Break it. Measure it. Make it useful.**
+
+---
+
+## 02 / SELECTED SYSTEMS
+
+| SYSTEM | WHAT IT PROVES |
+|:--|:--|
+| 🛡️ **ShadowQA** | AI + API engineering + RAG + asynchronous testing |
+| ✈️ **vac-ai-tion** | Full-stack product engineering + LLM orchestration |
+| 🚦 **Traffic Demand Prediction** | ML engineering + feature engineering + model evaluation |
+| 🔐 **AgentDefender** | Multi-agent orchestration + security-focused AI workflows |
+
+### 🛡️ ShadowQA
 **AI-Powered API Testing & Debugging Framework**
 
-</summary>
+ShadowQA turns an OpenAPI specification into an AI-assisted testing workflow — generating adversarial cases, executing requests concurrently, and using previous failures as context for debugging.
 
-### Overview
-
-ShadowQA is an AI-powered framework that automates REST API testing from OpenAPI specifications. It leverages Retrieval-Augmented Generation (RAG) to generate comprehensive test suites, identify edge cases, and provide contextual debugging assistance.
-
-### Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Language** | Python |
-| **Frameworks** | Streamlit, LangChain |
-| **Database** | SQLite, ChromaDB |
-| **AI** | Llama 3.3 |
-| **Concepts** | RAG, Asynchronous Processing |
-
-### Highlights
-
-- Generates 15 happy-path, edge-case, and adversarial test cases from natural-language descriptions in ~10 seconds
-- Async testing engine (httpx, asyncio) to run concurrent API requests, logging status codes and response times (~400ms)
-- Context-aware debugging using a LangChain + ChromaDB RAG pipeline
-- Generates AI-assisted diagnostic reports from past API failures
+**Proof**
+- **15** generated happy-path, edge-case & adversarial tests in ~**10s**
+- Concurrent API execution with `httpx` + `asyncio`
+- RAG debugging with **LangChain + ChromaDB**
+- AI-assisted diagnostic reports from historical failures
 - Structured vulnerability reports stored in SQLite
 
-<p align="center">
+`Python` `RAG` `Llama 3.3` `LangChain` `ChromaDB` `asyncio`
 
-<a href="https://github.com/RythmaLakkady/ShadowQA">
-<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://shadowapp.streamlit.app/">
-<img src="https://img.shields.io/badge/Live_Demo-8E365B?style=for-the-badge&logo=streamlit"/>
-</a>
-
-</p>
-
-</details>
+<a href="https://github.com/RythmaLakkady/ShadowQA"><img src="https://img.shields.io/badge/VIEW_CODE-3D1026?style=flat-square&logo=github&logoColor=F7A9C4"/></a>
+<a href="https://shadowapp.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-8E365B?style=flat-square&logo=streamlit&logoColor=F7A9C4"/></a>
 
 ---
 
-<details>
+### ✈️ vac-ai-tion
+**AI Travel Planning Platform with Asynchronous LLM Orchestration**
 
-<summary>
+A full-stack AI application where itinerary generation runs asynchronously instead of blocking the user. The system validates generated plans, streams progress, and caches repeated requests.
 
-## ✈️ vac-ai-tion
+**Proof**
+- Planner → Critic workflow with up to **3 validation iterations**
+- Firebase Cloud Functions for async generation
+- Firestore listeners for real-time progress
+- SHA-256 caching reducing repeated LLM calls by up to **6×**
+- Persistent itinerary editing and trip history
 
-**AI-Powered Travel Planning Platform with Asynchronous LLM Orchestration**
+`React` `Vite` `Firebase` `Firestore` `Groq` `Llama 3.3 70B`
 
-</summary>
-
-### Overview
-
-vac-ai-tion is a full-stack AI travel planning platform that generates personalized travel itineraries through an asynchronous orchestration pipeline. Instead of blocking the user while AI generation completes, the application delegates itinerary creation to Firebase Cloud Functions, streams progress in real time using Firestore listeners, and iteratively refines responses before presenting the final trip.
-
----
-
-### Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | React 18, Vite, Tailwind CSS |
-| **Backend** | Firebase Cloud Functions |
-| **Database** | Firestore |
-| **Authentication** | Firebase Authentication |
-| **AI** | Groq (Llama 3.3 70B) |
-| **APIs** | LocationIQ |
-| **Concepts** | Asynchronous Processing, Intelligent Caching, Real-Time Updates |
+<a href="https://github.com/RythmaLakkady/vac-ai-tion"><img src="https://img.shields.io/badge/VIEW_CODE-3D1026?style=flat-square&logo=github&logoColor=F7A9C4"/></a>
+<a href="https://vac-ai-tion.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-8E365B?style=flat-square&logo=vercel&logoColor=F7A9C4"/></a>
 
 ---
 
-### Highlights
-
-- Serverless AI itinerary generation with Planner-Critic workflow (up to 3 validation iterations)
-- Streamed real-time generation progress via Firestore listeners
-- Intelligent SHA-256 request caching, cutting repeated LLM API calls by up to 6x for identical searches
-- Drag-and-drop itinerary editing with persistent trip history for authenticated users
-- Responsive React frontend with Firebase Authentication
-
----
-
-<p align="center">
-
-<a href="https://github.com/RythmaLakkady/vac-ai-tion">
-<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://vac-ai-tion.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-8E365B?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
-</details>
-
-<details>
-
-<summary>
-
-## 🚦 Traffic Demand Prediction System
+### 🚦 Traffic Demand Prediction
 **Machine Learning for Urban Traffic Forecasting**
 
-</summary>
+A spatial + temporal ML pipeline using a stacked ensemble to predict urban traffic demand.
 
-### Overview
+**Proof**
+- **R² = 0.96**
+- **41,700+** validation samples
+- Geohash-based spatial features
+- 5-fold target encoding
+- LightGBM + XGBoost + CatBoost + Ridge
+- Automated inference pipeline
 
-A machine learning pipeline that predicts urban traffic demand using a stacked ensemble model. Engineered spatial and time-based features, including geohash encoding and 5-fold target encoding, to improve prediction accuracy on large datasets.
+`Python` `Pandas` `NumPy` `LightGBM` `XGBoost` `CatBoost`
 
-### Tech Stack
+<a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction"><img src="https://img.shields.io/badge/VIEW_CODE-3D1026?style=flat-square&logo=github&logoColor=F7A9C4"/></a>
 
-| Category | Technologies |
-|-----------|--------------|
-| **Language** | Python |
-| **Libraries** | Pandas, NumPy |
-| **Model** | LightGBM, XGBoost, CatBoost, Ridge Regression |
+---
 
-### Highlights
+### 🔐 AgentDefender
+**Multi-Agent AI for Smart Contract Security**
 
-- Stacked ensemble achieving an R² Score of **0.96**
-- Evaluated on **41,700+ samples**
-- Engineered spatial (geohash) and time-based features
-- 5-fold target encoding for improved accuracy
-- Automated inference pipeline with CSV exports
+A security-focused multi-agent system exploring how AI agents and static analysis can work together on Solidity smart contracts.
+
+**Core stack**
+`LangGraph` `Llama` `Slither` `Solidity`
+
+---
+
+## 03 / MY ENGINEERING LANE
+
+**01 — Intelligent systems**  
+LLMs · RAG · Agentic AI · multimodal AI · evaluation
+
+**02 — Backend & systems**  
+APIs · async processing · orchestration · databases · distributed systems
+
+**03 — Product engineering**  
+React · Node.js · Firebase · full-stack applications · real-time UX
+
+**04 — ML engineering**  
+Model development · feature engineering · ensembles · computer vision · inference
+
+---
+
+## 04 / THE STACK
 
 <p align="center">
-
-<a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">
-<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,express,aws,firebase,docker,mongodb,sqlite,git,linux,tensorflow,pytorch&theme=dark" />
 </p>
 
-</details>
-
----
-
-# Currently Building
-
-Although these aren't complete projects yet, they're areas I'm actively working on and excited to expand.
-
-- 🚀 Scalable Microservices & Distributed Systems
-- 🤖 Agentic AI Workflows & RAG Pipelines
-- ⚙️ Performance Optimization & High-availability Backends
-- 🌱 Open Source Contributions
-
-<!-- ================= END OF PART 2 ================= -->
-
-<!-- ========================================================= -->
-<!--              EXPERIENCE • LEADERSHIP • ACHIEVEMENTS        -->
-<!--                      PART 3 OF 4                          -->
-<!-- ========================================================= -->
-
-
-# Achievements
-
-- **Flipkart GRiD 8.0 Semifinalist**: Advanced to Round 3 among 165,730+ registered participants nationwide.
-- **Flipkart Gridlock Hackathon 2.0**: Built a stacked ML ensemble achieving an R2 score of 0.96 on 41,700+ validation samples.
-
----
-
-# Certifications
-
-<p align="left">
-
-<a href="https://www.hackerrank.com/certificates">
-
-<img src="https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-<img src="https://img.shields.io/badge/Finlatics-Data%20Science%20with%20Python-8E365B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deloitte-Technology%20Consulting%20Simulation-0A66C2?style=for-the-badge"/>
-
+<p align="center">
+  <code>LangChain</code> · <code>LangGraph</code> · <code>ChromaDB</code> · <code>Hugging Face</code> · <code>OpenCV</code> · <code>XGBoost</code> · <code>LightGBM</code> · <code>Gemini</code>
 </p>
 
 ---
 
-<h2 align="center">Coding Profiles</h2>
+## 05 / HOW I BUILD
 
-<p align="center">
-  <a href="https://leetcode.com/u/RythmaLakkady/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+```
+PROBLEM
+   ↓
+SYSTEM DESIGN
+   ↓
+MODEL / API / DATA LAYER
+   ↓
+ASYNC + FAILURE PATHS
+   ↓
+MEASURE
+   ↓
+SHIP
+```
 
-  <a href="https://github.com/RythmaLakkady">
-    <img src="https://img.shields.io/badge/GitHub-3D1026?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<!-- ================= END OF PART 3 ================= -->
-
-<!-- ========================================================= -->
-<!--                 GITHUB ACTIVITY & CONNECT                 -->
-<!--                      PART 4 OF 4                          -->
-<!-- ========================================================= -->
+I care about **what happens after the demo**: latency, failure modes, repeatability, observability, cost, and whether someone can actually use the thing.
 
 ---
 
-# Development Activity
-
-<p align="center">
-  <img width="49%" src="https://githubreadme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=F6D7E1&border_radius=15"/>
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=RythmaLakkady&hide_border=true&background=00000000&ring=F6D7E1&fire=F6D7E1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=15"/>
-</p>
-
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=ffffff00&color=F7A9C4&line=F6D7E1&point=FAD6E3&hide_border=true"/> </p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
-# Current Focus
+## 06 / CURRENTLY BUILDING
 
 ```yaml
-building:
-  - Scalable Microservices & Distributed Systems
-  - Agentic AI Workflows & RAG Pipelines
-  - Full-stack AI Applications
+now:
+  - Agentic AI workflows
+  - RAG systems
+  - Backend & distributed systems
+  - Production-oriented AI applications
 
-exploring:
-  - Advanced System Design
-  - Cloud Architecture (AWS/GCP)
-  - MLOps & LLMOps
-  - Open Source Contributions
+deepening:
+  - System design
+  - Cloud architecture
+  - Docker / Kubernetes
+  - MLOps / LLMOps
+  - AI evaluation & reliability
 
-learning:
-  - Deploying distributed systems at scale
-  - Advanced deployment strategies (Docker/Kubernetes)
-
-open_to:
-  - Software Engineering Internships
-  - AI / Machine Learning Internships
-  - Backend / Data Engineering Internships
+looking_for:
+  - Software Engineering
+  - AI / ML Engineering
+  - Backend Engineering
 ```
 
 ---
 
-<h1 align="center">Let's Connect</h1>
+## 07 / MILESTONES
+
+**Flipkart GRiD 8.0**  
+Semifinalist — advanced to Round 3 among **165,730+ registered participants**.
+
+**Flipkart Gridlock Hackathon 2.0**  
+Built a stacked ML ensemble reaching **R² 0.96** on **41,700+ validation samples**.
+
+---
+
+## 08 / ACTIVITY
 
 <p align="center">
-<a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/Email-5A1537?style=for-the-badge&logo=gmail&logoColor=F6D7E1"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LinkedIn-5A1537?style=for-the-badge&logo=linkedin&logoColor=F7A9C4"/></a>&nbsp;
-<a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GitHub-5A1537?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=0D0B10&color=F7A9C4&line=B85C7A&point=FAD6E3&area=true&hide_border=true" width="100%"/>
 </p>
-&nbsp;
 
-<a href="https://rythmalakkady.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-5A1537?style=for-the-badge&logo=vercel&logoColor=F6D7E1"/>
-</a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity"/>
 </p>
 
 ---
 
+## 09 / ELSEWHERE
+
 <p align="center">
-<img width="100%" src="footer.svg" alt="Footer"/>
+  <a href="https://rythmalakkady.vercel.app"><b>PORTFOLIO</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><b>LINKEDIN</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:rythmalakkady@gmail.com"><b>EMAIL</b></a>
 </p>
-<!-- ========================================================= -->
-<!--                    END OF README                          -->
-<!-- ========================================================= -->
+
+<p align="center">
+  <img src="footer.svg" width="100%" alt=""/>
+</p>
