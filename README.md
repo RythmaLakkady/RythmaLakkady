@@ -291,10 +291,6 @@ Then come the docs, experiments, broken versions, fixes, and usually a lot more 
 
 ---
 
-
-
----
-
 <div align="center">
 
 ## <img src="icons/link.svg" width="22" valign="middle"/> Let's Connect
@@ -311,33 +307,3 @@ Then come the docs, experiments, broken versions, fixes, and usually a lot more 
 
 <img src="footer.svg" width="100%" alt=""/>
 
-</div<div align="center">
-
-## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Stats
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&title_color=5A1537&icon_color=E7A9C5&text_color=5A1537&bg_color=FFF8FB&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&title_color=5A1537&text_color=5A1537&bg_color=FFF8FB&langs_count=8" height="180" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RythmaLakkady&hide_border=true&ring=5A1537&fire=E7A9C5&currStreakLabel=5A1537&background=FFF8FB&sideLabels=5A1537&currStreakNum=5A1537&sideNums=5A1537&dates=8A6577" height="180" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg" width="92%" alt="GitHub contribution activity"/>
-
-<br/><br/>
-
-<a href="https://github.com/RythmaLakkady">View GitHub Profile →</a>
-
-</div>>
