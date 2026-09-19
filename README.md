@@ -10,37 +10,37 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=3000&color=B8A8FF&center=true&vCenter=true&width=900&lines=Building+practical+software+solutions+powered+by+AI."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=3000&color=F7A9C4&center=true&vCenter=true&width=900&lines=Building+practical+software+solutions+powered+by+AI."/>
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/RythmaLakkady">
-<img src="https://img.shields.io/badge/GitHub-2F2A44?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-5A1537?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">
-<img src="https://img.shields.io/badge/LinkedIn-2F2A44?style=for-the-badge&logo=linkedin&logoColor=B8A8FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-5A1537?style=for-the-badge&logo=linkedin&logoColor=F7A9C4"/>
 </a>
 
 <a href="mailto:rythmalakkady@gmail.com">
-<img src="https://img.shields.io/badge/Email-2F2A44?style=for-the-badge&logo=gmail&logoColor=F7E7A9"/>
+<img src="https://img.shields.io/badge/Email-5A1537?style=for-the-badge&logo=gmail&logoColor=F6D7E1"/>
 </a>
 
 <a href="https://rythmalakkady.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2F2A44?style=for-the-badge&logo=vercel&logoColor=F7E7A9"/>
+<img src="https://img.shields.io/badge/Portfolio-5A1537?style=for-the-badge&logo=vercel&logoColor=F6D7E1"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RythmaLakkady&style=for-the-badge&color=B8A8FF"/>
+<img src="https://komarev.com/ghpvc/?username=RythmaLakkady&style=for-the-badge&color=F7A9C4"/>
 
-<img src="https://img.shields.io/github/followers/RythmaLakkady?style=for-the-badge&labelColor=2F2A44&color=D8CCFF"/>
+<img src="https://img.shields.io/github/followers/RythmaLakkady?style=for-the-badge&labelColor=5A1537&color=FAD6E3"/>
 
-<img src="https://img.shields.io/github/stars/RythmaLakkady?style=for-the-badge&labelColor=2F2A44&color=F7E7A9"/>
+<img src="https://img.shields.io/github/stars/RythmaLakkady?style=for-the-badge&labelColor=5A1537&color=F6D7E1"/>
 
 </p>
 
@@ -170,11 +170,11 @@ ShadowQA is an AI-powered framework that automates REST API testing from OpenAPI
 <p align="center">
 
 <a href="https://github.com/RythmaLakkady/ShadowQA">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://shadowapp.streamlit.app/">
-<img src="https://img.shields.io/badge/Live_Demo-7B61FF?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Live_Demo-8E365B?style=for-the-badge&logo=streamlit"/>
 </a>
 
 </p>
@@ -226,11 +226,11 @@ vac-ai-tion is a full-stack AI travel planning platform that generates personali
 <p align="center">
 
 <a href="https://github.com/RythmaLakkady/vac-ai-tion">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://vac-ai-tion.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-7B61FF?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Live_Demo-8E365B?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -270,7 +270,7 @@ SceneSolver explores multimodal AI for forensic evidence analysis by combining c
 <p align="center">
 
 <a href="https://github.com/adityapanyala/SceneSolver">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -311,7 +311,7 @@ A machine learning pipeline that predicts urban traffic demand using a stacked e
 <p align="center">
 
 <a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -354,7 +354,7 @@ Although these aren't complete projects yet, they're areas I'm actively working 
 
 </a>
 
-<img src="https://img.shields.io/badge/Finlatics-Data%20Science%20with%20Python-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Finlatics-Data%20Science%20with%20Python-8E365B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Deloitte-Technology%20Consulting%20Simulation-0A66C2?style=for-the-badge"/>
 
@@ -370,7 +370,7 @@ Although these aren't complete projects yet, they're areas I'm actively working 
   </a>
 
   <a href="https://github.com/RythmaLakkady">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-3D1026?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">
@@ -390,16 +390,16 @@ Although these aren't complete projects yet, they're areas I'm actively working 
 # Development Activity
 
 <p align="center">
-  <img width="49%" src="https://githubreadme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFE761&border_radius=15"/>
+  <img width="49%" src="https://githubreadme-stats.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=F6D7E1&border_radius=15"/>
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=RythmaLakkady&hide_border=true&background=00000000&ring=FFE761&fire=FFE761&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=15"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=RythmaLakkady&hide_border=true&background=00000000&ring=F6D7E1&fire=F6D7E1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=15"/>
 </p>
 
 <p align="center">
   <img width="49%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=15"/>
 </p>
 
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=ffffff00&color=B8A8FF&line=F7E7A9&point=D8CCFF&hide_border=true"/> </p>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=ffffff00&color=F7A9C4&line=F6D7E1&point=FAD6E3&hide_border=true"/> </p>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg"/>
@@ -435,14 +435,14 @@ open_to:
 <h1 align="center">Let's Connect</h1>
 
 <p align="center">
-<a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/Email-2F2A44?style=for-the-badge&logo=gmail&logoColor=F7E7A9"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LinkedIn-2F2A44?style=for-the-badge&logo=linkedin&logoColor=B8A8FF"/></a>&nbsp;
-<a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GitHub-2F2A44?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/Email-5A1537?style=for-the-badge&logo=gmail&logoColor=F6D7E1"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LinkedIn-5A1537?style=for-the-badge&logo=linkedin&logoColor=F7A9C4"/></a>&nbsp;
+<a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GitHub-5A1537?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 &nbsp;
 
 <a href="https://rythmalakkady.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2F2A44?style=for-the-badge&logo=vercel&logoColor=F7E7A9"/>
+<img src="https://img.shields.io/badge/Portfolio-5A1537?style=for-the-badge&logo=vercel&logoColor=F6D7E1"/>
 </a>
 
 </p>
