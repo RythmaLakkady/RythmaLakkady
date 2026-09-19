@@ -1,61 +1,8 @@
-<svg width="1600" height="140" viewBox="0 0 1600 140" fill="none" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#FFE761"/>
-    <stop offset="25%" stop-color="#FFF5AF"/>
-    <stop offset="55%" stop-color="#FFFDF2"/>
-    <stop offset="78%" stop-color="#E9D6FF"/>
-    <stop offset="100%" stop-color="#C59BFF"/>
-</linearGradient>
-
-<radialGradient id="butter">
-    <stop offset="0%" stop-color="#FFF9D4"/>
-    <stop offset="100%" stop-color="#FFF9D4" stop-opacity="0"/>
-</radialGradient>
-
-<radialGradient id="lavender">
-    <stop offset="0%" stop-color="#E9D7FF"/>
-    <stop offset="100%" stop-color="#E9D7FF" stop-opacity="0"/>
-</radialGradient>
-
-<filter id="blur">
-    <feGaussianBlur stdDeviation="40"/>
-</filter>
-
-</defs>
-
-<!-- Background -->
-
-<rect width="1600" height="140" rx="30" fill="url(#bg)"/>
-
-<!-- Soft Blobs -->
-
-<circle cx="180" cy="50" r="120" fill="url(#butter)" filter="url(#blur)"/>
-
-<circle cx="1450" cy="90" r="140" fill="url(#lavender)" filter="url(#blur)"/>
-
-<!-- Decorative Sparkles -->
-
-<g fill="white" opacity=".9">
-
-<path d="M250 35L254 45L264 49L254 53L250 63L246 53L236 49L246 45Z"/>
-
-<path d="M1360 80L1364 90L1374 94L1364 98L1360 108L1356 98L1346 94L1356 90Z"/>
-
-</g>
-
-<!-- Bottom Border -->
-
-<rect
-x="2"
-y="2"
-width="1596"
-height="136"
-rx="28"
-stroke="white"
-stroke-opacity=".35"
-stroke-width="2"/>
-
+<svg width="1600" height="150" viewBox="0 0 1600 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1600" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#260B19"/><stop offset=".5" stop-color="#4A1230"/><stop offset="1" stop-color="#701B46"/></linearGradient></defs>
+<rect width="1600" height="150" rx="28" fill="url(#bg)"/>
+<g opacity=".13" stroke="#FAD6E3"><path d="M0 38H1600M0 76H1600M0 114H1600"/><path d="M160 0V150M320 0V150M480 0V150M640 0V150M800 0V150M960 0V150M1120 0V150M1280 0V150M1440 0V150"/></g>
+<text x="800" y="76" text-anchor="middle" dominant-baseline="middle" fill="#FAD6E3" font-family="monospace" font-size="16" letter-spacing="4">BUILD • BREAK • MEASURE • SHIP</text>
+<path d="M650 108H950" stroke="#F7A9C4" stroke-width="2" stroke-linecap="round"/><circle cx="650" cy="108" r="4" fill="#F7A9C4"/><circle cx="950" cy="108" r="4" fill="#F7A9C4"/>
+<rect x="2" y="2" width="1596" height="146" rx="26" stroke="#F7A9C4" stroke-opacity=".25" stroke-width="2"/>
 </svg>
