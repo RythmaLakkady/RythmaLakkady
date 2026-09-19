@@ -20,6 +20,8 @@
 
 ---
 
+<div align="center">
+
 ## <img src="icons/brain.svg" width="22" valign="middle"/> About Me
 
 Hey, I'm **Rythma** — a Computer Science student at **Keshav Memorial Institute of Technology, Hyderabad**.
@@ -30,15 +32,17 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 
 > *I learn by building — and I usually understand something best once I've actually built it.*
 
----
+</div>
 
-## <img src="icons/code.svg" width="22" valign="middle"/> What I Work With
+---
 
 <div align="center">
 
+## <img src="icons/code.svg" width="22" valign="middle"/> What I Work With
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### <img src="icons/brain.svg" width="19" valign="middle"/> AI / ML
 
@@ -48,7 +52,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 `Gemini` `Llama`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### <img src="icons/code.svg" width="19" valign="middle"/> Software Engineering
 
@@ -60,7 +64,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### <img src="icons/cloud.svg" width="19" valign="middle"/> Backend / Cloud
 
@@ -69,7 +73,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 `Cloud Functions` `API Development`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### <img src="icons/compass.svg" width="19" valign="middle"/> Exploring Next
 
@@ -86,15 +90,15 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 
 ---
 
+<div align="center">
+
 ## ✦ Featured Work
 
-<p align="center">
 <i>Selected projects across AI, machine learning, and software engineering.</i>
-</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🛡️ ShadowQA
 
@@ -114,7 +118,7 @@ Using AI for the engineering work around an API — test generation, edge cases,
 <a href="https://github.com/RythmaLakkady/ShadowQA">↗ Repository</a> · <a href="https://shadowapp.streamlit.app/">↗ Live Demo</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ✈️ vac-AI-tion
 
@@ -152,15 +156,16 @@ A spatial + temporal ML pipeline using engineered features and a stacked ensembl
 <a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">↗ Repository</a>
 
 </td>
-
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 A Few Numbers
-
 <div align="center">
+
+## 📊 A Few Numbers
 
 | **165,730+** | **41,700+** | **0.96** | **3** |
 |:---:|:---:|:---:|:---:|
@@ -202,11 +207,24 @@ Built a stacked ML ensemble achieving **R² 0.96** on **41,700+ validation sampl
 
 ## <img src="icons/certificate.svg" width="22" valign="middle"/> Certifications
 
-| Certification | |
-|:---|:---|
-| Finlatics | Data Science with Python |
-| Deloitte | Technology Consulting Simulation |
-| HackerRank | Java (Basic) |
+<table>
+<tr>
+<td align="center"><strong>Certification</strong></td>
+<td align="center"><strong>Program</strong></td>
+</tr>
+<tr>
+<td align="center">Finlatics</td>
+<td align="center">Data Science with Python</td>
+</tr>
+<tr>
+<td align="center">Deloitte</td>
+<td align="center">Technology Consulting Simulation</td>
+</tr>
+<tr>
+<td align="center">HackerRank</td>
+<td align="center">Java (Basic)</td>
+</tr>
+</table>
 
 </div>
 
@@ -218,7 +236,7 @@ Built a stacked ML ensemble achieving **R² 0.96** on **41,700+ validation sampl
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Building now**
 
@@ -228,7 +246,7 @@ Agentic AI + RAG
 DSA & problem solving
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Learning next**
 
@@ -245,6 +263,8 @@ Production AI / LLMOps
 
 ---
 
+<div align="center">
+
 ## <img src="icons/lightbulb.svg" width="22" valign="middle"/> One Thing I'm Curious About
 
 **What happens after the demo works?**
@@ -256,6 +276,8 @@ The model that gets confused.
 The backend that needs to scale.
 
 That's the part of building AI systems I'm increasingly interested in.
+
+</div>
 
 ---
 
