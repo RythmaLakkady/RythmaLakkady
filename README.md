@@ -293,11 +293,24 @@ Then come the docs, experiments, broken versions, fixes, and usually a lot more 
 
 <div align="center">
 
-## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Activity
+## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Stats
+
+<a href="https://github.com/RythmaLakkady">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RythmaLakkady&show_icons=true&hide_border=true&title_color=5A1537&icon_color=E7A9C5&text_color=5A1537&bg_color=FFF8FB&rank_icon=github" width="49%" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/RythmaLakkady">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RythmaLakkady&layout=compact&hide_border=true&title_color=5A1537&text_color=5A1537&bg_color=FFF8FB&langs_count=8" width="49%" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RythmaLakkady&hide_border=true&ring=5A1537&fire=E7A9C5&currStreakLabel=5A1537&background=FFF8FB&sideLabels=5A1537&currStreakNum=5A1537&sideNums=5A1537&dates=8A6577" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg" width="92%" alt="GitHub contribution activity"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/RythmaLakkady">View GitHub Profile →</a>
 
