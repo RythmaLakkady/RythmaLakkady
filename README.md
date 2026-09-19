@@ -237,48 +237,6 @@ vac-ai-tion is a full-stack AI travel planning platform that generates personali
 
 </details>
 
----
-
-<details>
-
-<summary>
-
-## 🔍 SceneSolver
-**Multimodal Crime Scene Analysis Tool**
-
-</summary>
-
-### Overview
-
-SceneSolver explores multimodal AI for forensic evidence analysis by combining computer vision techniques with structured metadata generation. I contributed to building and integrating components of the computer vision pipeline.
-
-### Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Language** | Python |
-| **Libraries** | TensorFlow, OpenCV |
-| **Models** | CLIP, Vision Transformers |
-
-### Highlights
-
-- Image classification pipeline
-- Structured JSON and CSV outputs
-- Modular preprocessing workflow
-- Multimodal inference pipeline
-
-<p align="center">
-
-<a href="https://github.com/adityapanyala/SceneSolver">
-<img src="https://img.shields.io/badge/Repository-3D1026?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-</details>
-
----
-
 <details>
 
 <summary>
