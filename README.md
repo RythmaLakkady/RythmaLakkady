@@ -8,16 +8,19 @@
 
 <br/>
 
-<a href="https://rythmalakkady.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-5A1537?style=for-the-badge&logo=vercel&logoColor=FAD6E3"/></a>
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://img.shields.io/badge/LINKEDIN-5A1537?style=for-the-badge&logo=linkedin&logoColor=FAD6E3"/></a>
-<a href="mailto:rythmalakkady@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5A1537?style=for-the-badge&logo=gmail&logoColor=FAD6E3"/></a>
-<a href="https://github.com/RythmaLakkady"><img src="https://img.shields.io/badge/GITHUB-5A1537?style=for-the-badge&logo=github&logoColor=FAD6E3"/></a>
+<a href="https://rythmalakkady.vercel.app"><img src="icons/link.svg" width="18" height="18" alt="Portfolio"/> Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://cdn.simpleicons.org/linkedin/5A1537" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/RythmaLakkady"><img src="https://cdn.simpleicons.org/github/5A1537" width="18" height="18" alt="GitHub"/> GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:rythmalakkady@gmail.com"><img src="icons/link.svg" width="18" height="18" alt="Email"/> Email</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## <img src="icons/brain.svg" width="22" valign="middle"/> About Me
 
 Hey, I'm **Rythma** — a Computer Science student at **Keshav Memorial Institute of Technology, Hyderabad**.
 
@@ -29,13 +32,13 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 
 ---
 
-## 🧠 What I Work With
+## <img src="icons/code.svg" width="22" valign="middle"/> What I Work With
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI / ML
+### <img src="icons/brain.svg" width="19" valign="middle"/> AI / ML
 
 `Python` `TensorFlow` `OpenCV`  
 `LLMs` `RAG` `LangChain` `LangGraph`  
@@ -45,7 +48,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 </td>
 <td width="50%" valign="top">
 
-### Software Engineering
+### <img src="icons/code.svg" width="19" valign="middle"/> Software Engineering
 
 `Java` `C++` `JavaScript`  
 `React` `Node.js` `Express`  
@@ -57,7 +60,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 <tr>
 <td width="50%" valign="top">
 
-### Backend / Cloud
+### <img src="icons/cloud.svg" width="19" valign="middle"/> Backend / Cloud
 
 `AWS` `Firebase` `MongoDB`  
 `Firestore` `SQLite`  
@@ -66,7 +69,7 @@ Right now, I'm particularly interested in **RAG, agentic AI, asynchronous system
 </td>
 <td width="50%" valign="top">
 
-### Exploring Next
+### <img src="icons/compass.svg" width="19" valign="middle"/> Exploring Next
 
 `DSA` `System Design`  
 `Distributed Systems`  
@@ -107,7 +110,6 @@ Using AI for the engineering work around an API — test generation, edge cases,
 <a href="https://github.com/RythmaLakkady/ShadowQA">↗ Repository</a> · <a href="https://shadowapp.streamlit.app/">↗ Live Demo</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ✈️ vac-AI-tion
@@ -129,7 +131,6 @@ What changes when an AI feature has to behave like an actual product instead of 
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -139,17 +140,14 @@ What changes when an AI feature has to behave like an actual product instead of 
 
 A spatial + temporal ML pipeline using engineered features and a stacked ensemble.
 
-**Result:**  
-**R² 0.96** across **41,700+ validation samples**
+**Result:** **R² 0.96** across **41,700+ validation samples**
 
 `Python` `XGBoost` `LightGBM` `CatBoost`
 
 <br/>
-
 <a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">↗ Repository</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔐 AgentDefender
@@ -180,7 +178,7 @@ A final-year project exploring how AI agents and static analysis can work togeth
 
 ---
 
-## 💼 Experience
+## <img src="icons/work.svg" width="22" valign="middle"/> Experience
 
 ### Software Development Intern — MetaLogic Digital
 **2026 · Bengaluru**
@@ -194,7 +192,7 @@ Selected through campus recruitment for a Software Engineering internship.
 
 ---
 
-## 🎓 Education
+## <img src="icons/education.svg" width="22" valign="middle"/> Education
 
 ### Keshav Memorial Institute of Technology
 **B.Tech — Computer Science Engineering · 2023–2027**  
@@ -202,7 +200,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-## 🏆 Achievements
+## <img src="icons/award.svg" width="22" valign="middle"/> Achievements
 
 - **Flipkart GRiD 8.0 — Semifinalist**  
   Advanced to Round 3 among **165,730+ registered participants** nationwide.
@@ -214,7 +212,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-## 📜 Certifications
+## <img src="icons/certificate.svg" width="22" valign="middle"/> Certifications
 
 | Certification | |
 |:---|:---|
@@ -224,7 +222,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-## 🚀 What I'm Working Towards
+## <img src="icons/rocket.svg" width="22" valign="middle"/> What I'm Working Towards
 
 <table>
 <tr>
@@ -232,20 +230,20 @@ Hyderabad · **CGPA: 8.82**
 
 **Building now**
 
-🤖 AI / LLM applications  
-⚙️ Backend engineering  
-🧩 Agentic AI + RAG  
-💻 DSA & problem solving
+AI / LLM applications  
+Backend engineering  
+Agentic AI + RAG  
+DSA & problem solving
 
 </td>
 <td width="50%" valign="top">
 
 **Learning next**
 
-☁️ Cloud architecture  
-🏗️ System design  
-🌐 Distributed systems  
-📦 Production AI / LLMOps
+Cloud architecture  
+System design  
+Distributed systems  
+Production AI / LLMOps
 
 </td>
 </tr>
@@ -253,7 +251,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-## 💭 One Thing I'm Curious About
+## <img src="icons/lightbulb.svg" width="22" valign="middle"/> One Thing I'm Curious About
 
 **What happens after the demo works?**
 
@@ -267,7 +265,7 @@ That's the part of building AI systems I'm increasingly interested in.
 
 ---
 
-## 📈 GitHub Activity
+## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Activity
 
 <div align="center">
 
@@ -283,11 +281,13 @@ That's the part of building AI systems I'm increasingly interested in.
 
 <div align="center">
 
-### Let's build something interesting.
+## <img src="icons/link.svg" width="22" valign="middle"/> Let's Connect
 
 <a href="https://rythmalakkady.vercel.app">Portfolio</a>
 &nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/RythmaLakkady">GitHub</a>
 &nbsp; • &nbsp;
 <a href="mailto:rythmalakkady@gmail.com">Email</a>
 
