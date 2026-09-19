@@ -21,11 +21,11 @@
 
 Hey, I'm **Rythma** — a Computer Science student at **Keshav Memorial Institute of Technology, Hyderabad**.
 
-I like building things from scratch and then figuring out how to make them **smarter, faster, cleaner, and more useful**. My work has taken me across **AI/ML, LLM applications, full-stack development, backend engineering, and system design**.
+I like taking an idea, building it from scratch, and then figuring out how to make it **smarter, faster, cleaner, and more useful**. I've worked across **AI/ML, LLM applications, full-stack development, backend engineering, and system design**.
 
-Lately, I've been especially interested in **RAG, agentic AI, asynchronous systems, APIs, and the engineering needed to turn an AI idea into an actual product**.
+Right now, I'm particularly interested in **RAG, agentic AI, asynchronous systems, APIs, and what it takes to turn an AI idea into a reliable product**.
 
-> *I learn by building — and then rebuilding when I realise I can do it better.*
+> *I learn by building — and I usually understand something best once I've actually built it.*
 
 ---
 
@@ -36,19 +36,21 @@ Lately, I've been especially interested in **RAG, agentic AI, asynchronous syste
 <td width="50%" valign="top">
 
 ### AI / ML
-\`Python\` \`TensorFlow\` \`PyTorch\`  
-\`LLMs\` \`RAG\` \`LangChain\` \`LangGraph\`  
-\`Hugging Face\` \`OpenCV\` \`XGBoost\`  
-\`LightGBM\` \`Gemini\` \`Llama\`
+
+`Python` `TensorFlow` `OpenCV`  
+`LLMs` `RAG` `LangChain` `LangGraph`  
+`Hugging Face` `XGBoost` `LightGBM`  
+`Gemini` `Llama`
 
 </td>
 <td width="50%" valign="top">
 
 ### Software Engineering
-\`Java\` \`C++\` \`JavaScript\`  
-\`React\` \`Node.js\` \`Express\`  
-\`REST APIs\` \`Async Processing\`  
-\`Git\` \`Linux\` \`Docker\`
+
+`Java` `C++` `JavaScript`  
+`React` `Node.js` `Express`  
+`REST APIs` `Async Processing`  
+`Git` `Linux` `Docker`
 
 </td>
 </tr>
@@ -56,18 +58,20 @@ Lately, I've been especially interested in **RAG, agentic AI, asynchronous syste
 <td width="50%" valign="top">
 
 ### Backend / Cloud
-\`AWS\` \`Firebase\` \`MongoDB\`  
-\`Firestore\` \`SQLite\`  
-\`Cloud Functions\` \`API Development\`
+
+`AWS` `Firebase` `MongoDB`  
+`Firestore` `SQLite`  
+`Cloud Functions` `API Development`
 
 </td>
 <td width="50%" valign="top">
 
-### Currently Learning
-\`DSA\` \`System Design\`  
-\`Distributed Systems\`  
-\`Cloud Architecture\`  
-\`MLOps / LLMOps\`
+### Exploring Next
+
+`DSA` `System Design`  
+`Distributed Systems`  
+`Cloud Architecture`  
+`MLOps / LLMOps`
 
 </td>
 </tr>
@@ -75,10 +79,10 @@ Lately, I've been especially interested in **RAG, agentic AI, asynchronous syste
 
 ---
 
-# ✦ Featured Work
+## ✦ Featured Work
 
 <p align="center">
-<i>A few things I've built, broken, debugged, and shipped.</i>
+<i>Selected projects across AI, machine learning, and software engineering.</i>
 </p>
 
 <table>
@@ -89,39 +93,39 @@ Lately, I've been especially interested in **RAG, agentic AI, asynchronous syste
 
 **AI-powered API testing & debugging**
 
-A framework that turns API specifications into intelligent test cases and uses RAG to help understand failures.
+A framework that turns API specifications into intelligent test cases and uses RAG to help analyse failures.
 
-**Why I built it:**  
-I wanted to explore what happens when AI is used for the engineering work *around* an API — testing, edge cases, debugging, and failure analysis.
+**What I explored:**  
+Using AI for the engineering work around an API — test generation, edge cases, debugging, and failure analysis.
 
-\`Python\` \`RAG\` \`Llama 3.3\` \`LangChain\`
+`Python` `RAG` `Llama 3.3` `LangChain`
 
 **15+ test cases · ~10s generation · async execution**
 
 <br/>
 
-<a href="https://github.com/RythmaLakkady/ShadowQA">↗ View Repository</a> · <a href="https://shadowapp.streamlit.app/">↗ Live Demo</a>
+<a href="https://github.com/RythmaLakkady/ShadowQA">↗ Repository</a> · <a href="https://shadowapp.streamlit.app/">↗ Live Demo</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✈️ vac-ai-tion
+### ✈️ vac-AI-tion
 
 **AI travel planning platform**
 
 A full-stack AI application built around asynchronous LLM orchestration, real-time progress, validation, and caching.
 
-**Why I built it:**  
-I wanted to understand what changes when an AI feature has to behave like an actual product instead of a single model call.
+**What I explored:**  
+What changes when an AI feature has to behave like an actual product instead of a single model call.
 
-\`React\` \`Firebase\` \`Llama 3.3 70B\` \`Groq\`
+`React` `Firebase` `Llama 3.3 70B` `Groq`
 
 **Planner/Critic · real-time updates · 6× caching**
 
 <br/>
 
-<a href="https://github.com/RythmaLakkady/vac-ai-tion">↗ View Repository</a> · <a href="https://vac-ai-tion.vercel.app/">↗ Live Demo</a>
+<a href="https://github.com/RythmaLakkady/vac-AI-tion">↗ Repository</a> · <a href="https://vac-ai-tion.vercel.app/">↗ Live Demo</a>
 
 </td>
 </tr>
@@ -133,14 +137,16 @@ I wanted to understand what changes when an AI feature has to behave like an act
 
 **Machine learning for urban traffic forecasting**
 
-A spatial + temporal ML pipeline using a stacked ensemble and engineered features.
+A spatial + temporal ML pipeline using engineered features and a stacked ensemble.
 
 **Result:**  
 **R² 0.96** across **41,700+ validation samples**
 
-\`Python\` \`XGBoost\` \`LightGBM\` \`CatBoost\`
+`Python` `XGBoost` `LightGBM` `CatBoost`
 
-<a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">↗ View Repository</a>
+<br/>
+
+<a href="https://github.com/RythmaLakkady/flipkart-gridlock-traffic-prediction">↗ Repository</a>
 
 </td>
 
@@ -152,7 +158,7 @@ A spatial + temporal ML pipeline using a stacked ensemble and engineered feature
 
 A final-year project exploring how AI agents and static analysis can work together to identify vulnerabilities in Solidity contracts.
 
-\`LangGraph\` \`Llama\` \`Slither\` \`Solidity\`
+`LangGraph` `Llama` `Slither` `Solidity`
 
 **Currently building**
 
@@ -166,7 +172,7 @@ A final-year project exploring how AI agents and static analysis can work togeth
 
 <div align="center">
 
-| **165,730+** | **41,700+** | **0.96** | **4+** |
+| **165,730+** | **41,700+** | **0.96** | **4** |
 |:---:|:---:|:---:|:---:|
 | Flipkart GRiD registrations | ML validation samples | Traffic ML R² | Featured systems |
 
@@ -174,21 +180,21 @@ A final-year project exploring how AI agents and static analysis can work togeth
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### Software Development Intern — MetaLogic Digital
 **2026 · Bengaluru**
 
-Building websites and digital products for a 360° digital marketing agency, with a focus on frontend development and improving landing-page experiences.
+Building websites and digital products with a focus on frontend development and landing-page experiences.
 
-### Incoming Software Engineering Intern — Broadridge
+### Software Engineering Intern — Broadridge
 **2026**
 
 Selected through campus recruitment for a Software Engineering internship.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 ### Keshav Memorial Institute of Technology
 **B.Tech — Computer Science Engineering · 2023–2027**  
@@ -196,7 +202,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - **Flipkart GRiD 8.0 — Semifinalist**  
   Advanced to Round 3 among **165,730+ registered participants** nationwide.
@@ -208,21 +214,23 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-\`Finlatics — Data Science with Python\`  
-\`Deloitte — Technology Consulting Simulation\`  
-\`HackerRank — Java (Basic)\`
+| Certification | |
+|:---|:---|
+| Finlatics | Data Science with Python |
+| Deloitte | Technology Consulting Simulation |
+| HackerRank | Java (Basic) |
 
 ---
 
-# 🚀 What I'm Working Towards
+## 🚀 What I'm Working Towards
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**Now**
+**Building now**
 
 🤖 AI / LLM applications  
 ⚙️ Backend engineering  
@@ -230,9 +238,9 @@ Hyderabad · **CGPA: 8.82**
 💻 DSA & problem solving
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**Next**
+**Learning next**
 
 ☁️ Cloud architecture  
 🏗️ System design  
@@ -245,7 +253,7 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
-## 💭 Currently Obsessed With...
+## 💭 One Thing I'm Curious About
 
 **What happens after the demo works?**
 
@@ -255,11 +263,11 @@ The expensive LLM call.
 The model that gets confused.  
 The backend that needs to scale.
 
-That's the part I'm trying to get better at.
+That's the part of building AI systems I'm increasingly interested in.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
