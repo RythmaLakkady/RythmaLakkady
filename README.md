@@ -203,7 +203,7 @@ Hyderabad · **CGPA: 8.82**
 
 
 </div>
----
+
 
 ## <img src="icons/rocket.svg" width="22" valign="middle"/> What I'm Working Towards
 
