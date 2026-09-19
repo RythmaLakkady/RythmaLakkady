@@ -10,7 +10,7 @@
 
 <a href="https://rythmalakkady.vercel.app"><img src="icons/link.svg" width="18" height="18" alt="Portfolio"/> Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://in.linkedin.com/in/rythma-lakkady-1725852a2"><img src="https://cdn.simpleicons.org/linkedin/5A1537" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
+<a href="https://in.linkedin.com/in/rythma-lakkady-1725852a2"><img src="icons/linkedin.svg" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/RythmaLakkady"><img src="https://cdn.simpleicons.org/github/5A1537" width="18" height="18" alt="GitHub"/> GitHub</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -253,18 +253,17 @@ That's the part of building AI systems I'm increasingly interested in.
 
 ---
 
-## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RythmaLakkady&bg_color=120D12&color=F7A9C4&line=B85C7A&point=FAD6E3&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+## <img src="icons/activity.svg" width="22" valign="middle"/> GitHub Activity
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg" width="92%" alt="GitHub contribution activity"/>
 
-<img src="https://raw.githubusercontent.com/RythmaLakkady/RythmaLakkady/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+<br/>
+
+<a href="https://github.com/RythmaLakkady">View GitHub Profile →</a>
 
 </div>
-
 ---
 
 <div align="center">
