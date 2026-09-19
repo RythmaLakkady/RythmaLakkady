@@ -10,7 +10,7 @@
 
 <a href="https://rythmalakkady.vercel.app"><img src="icons/link.svg" width="18" height="18" alt="Portfolio"/> Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://in.linkedin.com/in/rythma-lakkady-1725852a2"><img src="icons/linkedin.svg" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
+<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="icons/linkedin.svg" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/RythmaLakkady"><img src="https://cdn.simpleicons.org/github/5A1537" width="18" height="18" alt="GitHub"/> GitHub</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -136,7 +136,7 @@ What changes when an AI feature has to behave like an actual product instead of 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top">
 
 ### 🚦 Traffic Demand Prediction
 
@@ -170,9 +170,8 @@ A spatial + temporal ML pipeline using engineered features and a stacked ensembl
 
 ---
 
----
-
 ## <img src="icons/education.svg" width="22" valign="middle"/> Education
+<div align="center">
 
 ### Keshav Memorial Institute of Technology
 **B.Tech — Computer Science Engineering · 2023–2027**  
@@ -180,7 +179,12 @@ Hyderabad · **CGPA: 8.82**
 
 ---
 
+</div>
+
+---
+
 ## <img src="icons/award.svg" width="22" valign="middle"/> Achievements
+<div align="center">
 
 - **Flipkart GRiD 8.0 — Semifinalist**  
   Advanced to Round 3 among **165,730+ registered participants** nationwide.
@@ -193,6 +197,10 @@ Hyderabad · **CGPA: 8.82**
 
 <div align="center">
 
+</div>
+
+---
+
 ## <img src="icons/certificate.svg" width="22" valign="middle"/> Certifications
 
 | Certification | |
@@ -204,6 +212,7 @@ Hyderabad · **CGPA: 8.82**
 
 </div>
 
+---
 
 ## <img src="icons/rocket.svg" width="22" valign="middle"/> What I'm Working Towards
 
@@ -263,6 +272,7 @@ That's the part of building AI systems I'm increasingly interested in.
 <a href="https://github.com/RythmaLakkady">View GitHub Profile →</a>
 
 </div>
+
 ---
 
 <div align="center">
