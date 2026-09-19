@@ -265,19 +265,27 @@ Production AI / LLMOps
 
 <div align="center">
 
-<h2><img src="icons/lightbulb.svg" width="22" valign="middle"/> One Thing I'm Curious About</h2>
+<h2><img src="icons/lightbulb.svg" width="22" valign="middle"/> The Question I Keep Asking</h2>
 
-<p><strong>What happens after the demo works?</strong></p>
+<p><strong>What happens if I build this?</strong></p>
 
 <p>
-The slow API.<br/>
-The weird input.<br/>
-The expensive LLM call.<br/>
-The model that gets confused.<br/>
-The backend that needs to scale.
+That's basically how most of my projects start.
 </p>
 
-<p><i>That's the part of building AI systems I'm increasingly interested in.</i></p>
+<p>
+A random idea.<br/>
+Something I want to understand.<br/>
+A problem that makes me think, <i>"surely I can build something for this."</i>
+</p>
+
+<p>
+Then come the docs, experiments, broken versions, fixes, and usually a lot more learning than I expected.
+</p>
+
+<p>
+<i>Turning curiosity into something that actually works is probably my favourite part of computer science.</i>
+</p>
 
 </div>
 
