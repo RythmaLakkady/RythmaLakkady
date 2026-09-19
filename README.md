@@ -188,9 +188,10 @@ Hyderabad · **CGPA: 8.82**
 - **Flipkart Gridlock Hackathon 2.0**  
   Built a stacked ML ensemble achieving **R² 0.96** on **41,700+ validation samples**.
 
-- **Smart India Hackathon — Qualifier**
 
 ---
+
+<div align="center">
 
 ## <img src="icons/certificate.svg" width="22" valign="middle"/> Certifications
 
@@ -200,6 +201,8 @@ Hyderabad · **CGPA: 8.82**
 | Deloitte | Technology Consulting Simulation |
 | HackerRank | Java (Basic) |
 
+
+</div>
 ---
 
 ## <img src="icons/rocket.svg" width="22" valign="middle"/> What I'm Working Towards
