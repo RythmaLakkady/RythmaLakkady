@@ -265,17 +265,19 @@ Production AI / LLMOps
 
 <div align="center">
 
-## <img src="icons/lightbulb.svg" width="22" valign="middle"/> One Thing I'm Curious About
+<h2><img src="icons/lightbulb.svg" width="22" valign="middle"/> One Thing I'm Curious About</h2>
 
-**What happens after the demo works?**
+<p><strong>What happens after the demo works?</strong></p>
 
-The slow API.  
-The weird input.  
-The expensive LLM call.  
-The model that gets confused.  
+<p>
+The slow API.<br/>
+The weird input.<br/>
+The expensive LLM call.<br/>
+The model that gets confused.<br/>
 The backend that needs to scale.
+</p>
 
-That's the part of building AI systems I'm increasingly interested in.
+<p><i>That's the part of building AI systems I'm increasingly interested in.</i></p>
 
 </div>
 
