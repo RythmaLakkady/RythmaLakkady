@@ -170,36 +170,35 @@ A spatial + temporal ML pipeline using engineered features and a stacked ensembl
 
 ---
 
-## <img src="icons/education.svg" width="22" valign="middle"/> Education
 <div align="center">
 
-### Keshav Memorial Institute of Technology
+## <img src="icons/education.svg" width="22" valign="middle"/> Education
+
+**Keshav Memorial Institute of Technology**  
 **B.Tech — Computer Science Engineering · 2023–2027**  
 Hyderabad · **CGPA: 8.82**
 
----
-
 </div>
 
 ---
+
+<div align="center">
 
 ## <img src="icons/award.svg" width="22" valign="middle"/> Achievements
-<div align="center">
 
-- **Flipkart GRiD 8.0 — Semifinalist**  
-  Advanced to Round 3 among **165,730+ registered participants** nationwide.
+**Flipkart GRiD 8.0 — Semifinalist**  
+Advanced to Round 3 among **165,730+ registered participants** nationwide.
 
-- **Flipkart Gridlock Hackathon 2.0**  
-  Built a stacked ML ensemble achieving **R² 0.96** on **41,700+ validation samples**.
+<br/>
 
-
----
-
-<div align="center">
+**Flipkart Gridlock Hackathon 2.0**  
+Built a stacked ML ensemble achieving **R² 0.96** on **41,700+ validation samples**.
 
 </div>
 
 ---
+
+<div align="center">
 
 ## <img src="icons/certificate.svg" width="22" valign="middle"/> Certifications
 
@@ -208,7 +207,6 @@ Hyderabad · **CGPA: 8.82**
 | Finlatics | Data Science with Python |
 | Deloitte | Technology Consulting Simulation |
 | HackerRank | Java (Basic) |
-
 
 </div>
 
@@ -244,9 +242,6 @@ Production AI / LLMOps
 </table>
 
 </div>
-
----
-
 
 ---
 
