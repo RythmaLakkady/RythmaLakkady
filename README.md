@@ -204,6 +204,8 @@ Hyderabad · **CGPA: 8.82**
 
 ## <img src="icons/rocket.svg" width="22" valign="middle"/> What I'm Working Towards
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -228,6 +230,8 @@ Production AI / LLMOps
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
