@@ -10,7 +10,7 @@
 
 <a href="https://rythmalakkady.vercel.app"><img src="icons/link.svg" width="18" height="18" alt="Portfolio"/> Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rythma-lakkady-1725852a2/"><img src="https://cdn.simpleicons.org/linkedin/5A1537" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
+<a href="https://in.linkedin.com/in/rythma-lakkady-1725852a2"><img src="https://cdn.simpleicons.org/linkedin/5A1537" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/RythmaLakkady"><img src="https://cdn.simpleicons.org/github/5A1537" width="18" height="18" alt="GitHub"/> GitHub</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -177,18 +177,6 @@ A final-year project exploring how AI agents and static analysis can work togeth
 </div>
 
 ---
-
-## <img src="icons/work.svg" width="22" valign="middle"/> Experience
-
-### Software Development Intern — MetaLogic Digital
-**2026 · Bengaluru**
-
-Building websites and digital products with a focus on frontend development and landing-page experiences.
-
-### Software Engineering Intern — Broadridge
-**2026**
-
-Selected through campus recruitment for a Software Engineering internship.
 
 ---
 
